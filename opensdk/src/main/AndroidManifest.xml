@@ -1,0 +1,5 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.chimpim.gpio.opensdk">
+    <!--使用GPIO权限-->
+    <uses-permission android:name="com.chimpim.gpio.permission.ACCESS_GPIO_SERVICE" />
+</manifest>
